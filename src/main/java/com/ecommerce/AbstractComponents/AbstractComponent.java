@@ -72,4 +72,10 @@ public class AbstractComponent {
 		return ordersPage;
 	}
 	
+	public void test1()
+	{
+		
+		
+	}
+	
 }
