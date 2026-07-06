@@ -78,4 +78,9 @@ public class AbstractComponent {
 		
 	}
 	
+	public void test1_QA2()
+	{
+		
+		
+	}
 }
