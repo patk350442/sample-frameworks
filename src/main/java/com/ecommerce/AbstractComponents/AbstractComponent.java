@@ -72,20 +72,5 @@ public class AbstractComponent {
 		return ordersPage;
 	}
 	
-	public void test1()
-	{
-		
-		
-	}
-	
-	public void test1_QA2()
-	{
-		
-		
-	}
-	public void test1_QA1()
-	{
-		
-		
-	}
+
 }
