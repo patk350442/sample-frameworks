@@ -43,7 +43,7 @@ public class AbstractComponent {
 	wait.until(ExpectedConditions.visibilityOf(element));
 	}
 	
-	public void waitForElementToDisappear(WebElement Element) throws InterruptedException
+	public void waitForWebElementToDisappear(WebElement Element) throws InterruptedException
 	{
 		Thread.sleep(500);
 	//	WebDriverWait wait=new WebDriverWait(driver,Duration.ofSeconds(5));
