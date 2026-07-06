@@ -8,4 +8,6 @@ Scenario Outline: Verifying validation message on login with incorrect details
 	Then user encounters validation message "Incorrect email or password."
 	Examples:
 	|email|password|
-	|pratik350442@gmail.com|Test@123451|
+	|pratik350442@gmail.com|Test@1234512|
+	
+	
